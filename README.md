@@ -2,11 +2,11 @@
 
 going on make gradual improvements in realizing interactive performance🦾
 
-![sooonding GitHub stats](https://github-readme-stats.vercel.app/api?username=sooonding&show_icons=true&theme=vue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooonding&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<span><img src='https://github-readme-stats.vercel.app/api?username=sooonding&show_icons=true&theme=vue' width="48%"></span>
+<span><img width='40%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=sooonding&layout=compact&theme=vue&langs_count=6'></span>
 
-
-
+<!-- https://github-readme-stats.vercel.app/api?username=sooonding&show_icons=true&theme=vue -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooonding&layout=compact&theme=vue&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **sooonding/sooonding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
